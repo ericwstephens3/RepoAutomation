@@ -7,9 +7,7 @@ This bash script creates Github repositories through a single simple bash comman
 - create an ssh key for GitHub
   - link: https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#adding-your-ssh-key-to-the-ssh-agent
 - edit your .bashrc to permanently add the command to your terminal
-'''sh
-gedit ~./bashrc
-'''
-'''sh
+```sh
+gedit ~/.bashrc
 source /path/to/.sh
-'''
+```
