@@ -1,5 +1,5 @@
 # GitHub Repository Automation
-This bash script creates Github repositories through a single simple bash command. The command accepts two parameters. The first being the framework/language and the second being the name of the repository to create.
+This bash script creates Github repositories through a single simple bash command. The command accepts two parameters. The first being the framework/language and the second being the name of the repository to create. It also opens up visual studio code with the newly created directory
 
 # Installation
 - clone repository into desired location
