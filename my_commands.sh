@@ -51,6 +51,10 @@ function create() {
     git commit -m "Initial commit"
     git push -u origin master
     if [ $1 != "android" ]; then
-    	code .
+    	if [ $1 = "c++" ]; then
+		qtcreator .
+	else
+		code .
+	fi
     fi
 }

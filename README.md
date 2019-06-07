@@ -13,3 +13,10 @@ gedit ~./bashrc
 '''sh
 source /path/to/.sh
 '''
+
+# Default Frameworks and Programs
+These are the programs and frameworks that currently run as part of the bash script when you first clone it. Change these for your own use.
+
+- Flutter (creates the flutter project for you)
+- VS code (opens all projects except android and c++)
+- QT Creator (opens directory for c++ projects within  IDE)
